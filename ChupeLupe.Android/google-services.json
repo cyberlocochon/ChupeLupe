@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "680664026610",
+    "firebase_url": "https://chupelupe-f5770.firebaseio.com",
+    "project_id": "chupelupe-f5770",
+    "storage_bucket": "chupelupe-f5770.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:680664026610:android:4c2486b83c53d73d",
+        "android_client_info": {
+          "package_name": "com.RLJones_app.ChupeLupe"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "680664026610-1eetc6f8iph1n4dp0j11t98pi89u40v8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTiZyMo42NRETHvaYqyPt6CwCWRsAibrc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

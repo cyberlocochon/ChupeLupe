@@ -1,4 +1,8 @@
 ﻿using System;
+using ChupeLupe.Views.Controls;
+using Microsoft.AppCenter;
+using Microsoft.AppCenter.Analytics;
+using Microsoft.AppCenter.Crashes;
 using Xamarin.Forms;
 using Xamarin.Forms.Xaml;
 
@@ -11,7 +15,10 @@ namespace ChupeLupe
         {
             InitializeComponent();
 
-            MainPage = new MainPage();
+            //MainPage = new MainPage();
+            MainPage = new BaseNavigationPage(new Views.PromotionsList());
+
+            //Crashes.GenerateTestCrash();
         }
 
         protected override void OnStart()

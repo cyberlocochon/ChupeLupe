@@ -1,0 +1,20 @@
+﻿<Properties StartupConfiguration="{2D64A4E8-5240-4F1D-A987-277CEDCCD64D}|Default">
+  <MonoDevelop.Ide.Workbench>
+    <Files>
+      <File FileName="ChupeLupe.Android/MainActivity.cs" Line="35" Column="13" />
+      <File FileName="ChupeLupe/App.xaml.cs" Line="30" Column="10" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.ChupeLupe.Android AndroidDesignerPreferredTheme="Theme.DeviceDefault.NoActionBar.Fullscreen" PreferredExecutionTarget="Android.5736515634593398" />
+  <DisabledProjects>
+    <String>ChupeLupe.iOS/ChupeLupe.iOS.csproj</String>
+  </DisabledProjects>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/beetsool/ChupeLupe/ChupeLupe/ViewModels/PromotionsListViewModel.cs" relfile="ChupeLupe/ViewModels/PromotionsListViewModel.cs" line="8" column="39" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

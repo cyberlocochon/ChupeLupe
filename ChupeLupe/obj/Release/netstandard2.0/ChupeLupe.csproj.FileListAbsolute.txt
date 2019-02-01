@@ -1,0 +1,13 @@
+/Users/beetsool/ChupeLupe/ChupeLupe/bin/Release/netstandard2.0/ChupeLupe.deps.json
+/Users/beetsool/ChupeLupe/ChupeLupe/bin/Release/netstandard2.0/ChupeLupe.dll
+/Users/beetsool/ChupeLupe/ChupeLupe/bin/Release/netstandard2.0/ChupeLupe.pdb
+/Users/beetsool/ChupeLupe/ChupeLupe/obj/Release/netstandard2.0/App.xaml.g.cs
+/Users/beetsool/ChupeLupe/ChupeLupe/obj/Release/netstandard2.0/MainPage.xaml.g.cs
+/Users/beetsool/ChupeLupe/ChupeLupe/obj/Release/netstandard2.0/Views/Controls/BaseNavigationPage.xaml.g.cs
+/Users/beetsool/ChupeLupe/ChupeLupe/obj/Release/netstandard2.0/Views/PromotionsList.xaml.g.cs
+/Users/beetsool/ChupeLupe/ChupeLupe/obj/Release/netstandard2.0/ChupeLupe.csproj.CoreCompileInputs.cache
+/Users/beetsool/ChupeLupe/ChupeLupe/obj/Release/netstandard2.0/ChupeLupe.AssemblyInfoInputs.cache
+/Users/beetsool/ChupeLupe/ChupeLupe/obj/Release/netstandard2.0/ChupeLupe.AssemblyInfo.cs
+/Users/beetsool/ChupeLupe/ChupeLupe/obj/Release/netstandard2.0/XamlC.stamp
+/Users/beetsool/ChupeLupe/ChupeLupe/obj/Release/netstandard2.0/ChupeLupe.dll
+/Users/beetsool/ChupeLupe/ChupeLupe/obj/Release/netstandard2.0/ChupeLupe.pdb
